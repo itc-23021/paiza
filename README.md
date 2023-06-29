@@ -1,3 +1,3 @@
 # paiza
-
-![コードガール](images/test.png)
+#コードガール
+![codegirlcollection](images/test.png)
