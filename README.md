@@ -1,3 +1,3 @@
 # paiza
-## aaa
+## ゴードガールコレクション
 ![codegirlcollection](images/test.png)
